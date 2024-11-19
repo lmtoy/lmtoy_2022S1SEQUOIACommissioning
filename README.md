@@ -8,3 +8,6 @@ commissioning for SEQ in 2022
 2022-02-22T20:39:00    94050  SEQ        Science      Map(L/C)    R-Cas                     2022S1SEQUOIACommissioning      86.2434    24     260.1  359.603625  51.388803  354.0  57.2  -720 0
 
 note 94051 now fails in the new pipeline
+
+94052 shows a weaker 2nd line around -50 km/s.  At vlsr=24.
+But this weaker line only shows up in the two bad beams (12,13)

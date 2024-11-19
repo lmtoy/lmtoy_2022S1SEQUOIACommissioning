@@ -26,7 +26,7 @@ pars1["R-Cas"] = ""
 # parameters for the (optional) second pass of the pipeline (e.g. for bank=0)
 pars2 = {}
 
-pars2["R-Cas"] = ""
+pars2["R-Cas"] = "pix_list=-5,8,12,13"
 
 # parameters for the (optional) third pass of the pipeline (usually for bank=1)
 pars3 = {}
